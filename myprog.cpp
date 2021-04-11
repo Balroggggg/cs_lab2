@@ -4,8 +4,7 @@ int main()
 {
     int row1, row2, col1, col2;
     double** a, ** b, ** c;
-    system("chcp 1251");
-    system("cls");
+
     row1 = 300;
     col1 = 300;
     row2 = 300;
